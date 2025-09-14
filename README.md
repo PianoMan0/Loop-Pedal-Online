@@ -1,1 +1,2 @@
 # Loop-Pedal-Online
+I always wanted a loop pedal, but they are so expensive. So I decided to make a version in a website myself! It's pretty basic right now, but can hopefully help for simple purposes :D
